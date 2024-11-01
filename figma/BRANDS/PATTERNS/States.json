@@ -1,0 +1,137 @@
+{
+  "jf": {
+    "sate": {
+      "shadow": {
+        "primary": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.primary}",
+              "type": "dropShadow"
+            }
+          }
+        },
+        "secondary": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.secondary}",
+              "type": "dropShadow"
+            }
+          }
+        },
+        "neutral": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.neutral}",
+              "type": "dropShadow"
+            }
+          }
+        },
+        "critical": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.critical}",
+              "type": "dropShadow"
+            }
+          }
+        },
+        "warning": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.warning}",
+              "type": "dropShadow"
+            }
+          }
+        },
+        "dataviz1": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.dataviz1}",
+              "type": "dropShadow"
+            }
+          }
+        },
+        "dataviz2": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.dataviz2}",
+              "type": "dropShadow"
+            }
+          }
+        },
+        "dataviz3": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.dataviz3}",
+              "type": "dropShadow"
+            }
+          }
+        },
+        "dataviz4": {
+          "focus": {
+            "type": "boxShadow",
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "{jf.shadow.dataviz4}",
+              "type": "dropShadow"
+            }
+          }
+        }
+      }
+    },
+    "state": {
+      "opacity": {
+        "dragged": {
+          "type": "opacity",
+          "value": "{jf.opacity.lg}"
+        },
+        "disabled": {
+          "type": "opacity",
+          "value": "{jf.opacity.sm}"
+        }
+      }
+    }
+  }
+}

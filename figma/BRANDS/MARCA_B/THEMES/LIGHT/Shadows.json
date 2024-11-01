@@ -1,0 +1,54 @@
+{
+  "jf": {
+    "shadow": {
+      "neutral": {
+        "type": "color",
+        "value": "rgba({black}, 0.15)"
+      },
+      "primary": {
+        "type": "color",
+        "value": "rgba({jf.base.primary}, 0.25)"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "rgba({jf.base.secondary}, 0.25)"
+      },
+      "success": {
+        "type": "color",
+        "value": "rgba({jf.base.success}, 0.25)"
+      },
+      "critical": {
+        "type": "color",
+        "value": "rgba({jf.base.critical}, 0.25)"
+      },
+      "warning": {
+        "type": "color",
+        "value": "rgba({jf.base.warning}, 0.25)"
+      },
+      "dataviz1": {
+        "type": "color",
+        "value": "rgba({jf.base.dataviz1}, 0.25)"
+      },
+      "dataviz2": {
+        "type": "color",
+        "value": "rgba({jf.base.dataviz2}, 0.25)"
+      },
+      "dataviz3": {
+        "type": "color",
+        "value": "rgba({jf.base.dataviz3}, 0.25)"
+      },
+      "dataviz4": {
+        "type": "color",
+        "value": "rgba({jf.base.dataviz4}, 0.25)"
+      },
+      "dataviz5": {
+        "type": "color",
+        "value": "rgba({jf.base.dataviz5}, 0.25)"
+      },
+      "dataviz6": {
+        "type": "color",
+        "value": "rgba({jf.base.dataviz6}, 0.25)"
+      }
+    }
+  }
+}

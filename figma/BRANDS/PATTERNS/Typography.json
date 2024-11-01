@@ -1,0 +1,42 @@
+{
+  "jf": {
+    "font": {
+      "navigation": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{jf.font-family.brand}",
+          "fontWeight": "{jf.font-weight.body-medium}",
+          "fontSize": "{jf.font-size.body.md}",
+          "lineHeight": "{jf.line-height.body.md}",
+          "letterSpacing": "{jf.letter-spacing.body.md}"
+        }
+      }
+    },
+    "article": {
+      "font": {
+        "paragraph": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{jf.font-family.plain}",
+            "fontWeight": "{jf.font-weight.body-regular}",
+            "fontSize": "{jf.font-size.body.md}",
+            "lineHeight": "{jf.line-height.body.md}",
+            "letterSpacing": "{jf.letter-spacing.body.md}",
+            "paragraphSpacing": "{jf.margin.xl3}"
+          }
+        },
+        "title": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{jf.font-family.brand}",
+            "fontWeight": "{jf.font-weight.title}",
+            "fontSize": "{jf.font-size.title.lg}",
+            "lineHeight": "{jf.line-height.title.lg}",
+            "letterSpacing": "{jf.letter-spacing.title.lg}",
+            "paragraphSpacing": "{jf.margin.g}"
+          }
+        }
+      }
+    }
+  }
+}

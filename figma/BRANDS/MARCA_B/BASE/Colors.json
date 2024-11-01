@@ -1,0 +1,42 @@
+{
+  "jf": {
+    "base": {
+      "primary": {
+        "type": "color",
+        "value": "#7b34db"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "#29b7ac"
+      },
+      "neutral": {
+        "type": "color",
+        "value": "#5b6875"
+      },
+      "dataviz1": {
+        "type": "color",
+        "value": "#c26522"
+      },
+      "dataviz2": {
+        "type": "color",
+        "value": "#26ae66"
+      },
+      "dataviz3": {
+        "type": "color",
+        "value": "#26abad"
+      },
+      "dataviz4": {
+        "type": "color",
+        "value": "#2639ad"
+      },
+      "dataviz5": {
+        "type": "color",
+        "value": "#9126ad"
+      },
+      "dataviz6": {
+        "type": "color",
+        "value": "#ad265c"
+      }
+    }
+  }
+}

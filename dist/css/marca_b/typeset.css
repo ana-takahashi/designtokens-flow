@@ -1,0 +1,55 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --jf-font-size-display-lg: clamp(1.50rem, calc(0.19vw + 1.46rem), 1.69rem);
+  --jf-font-size-display-md: clamp(1.44rem, calc(0.19vw + 1.39rem), 1.63rem);
+  --jf-font-size-display-sm: clamp(1.38rem, calc(0.19vw + 1.33rem), 1.56rem);
+  --jf-font-size-title-xl: clamp(1.25rem, calc(0.13vw + 1.22rem), 1.38rem);
+  --jf-font-size-title-lg: clamp(3.50rem, calc(0.40vw + 3.40rem), 4.00rem);
+  --jf-font-size-title-md: clamp(2.94rem, calc(0.30vw + 2.86rem), 3.31rem);
+  --jf-font-size-title-sm: clamp(2.44rem, calc(0.25vw + 2.37rem), 2.75rem);
+  --jf-font-size-title-xs: clamp(1.06rem, calc(0.13vw + 1.03rem), 1.19rem);
+  --jf-font-size-body-md: clamp(0.94rem, calc(0.10vw + 0.91rem), 1.06rem);
+  --jf-font-size-body-xl: clamp(1.38rem, calc(0.15vw + 1.34rem), 1.56rem);
+  --jf-font-size-body-lg: clamp(1.13rem, calc(0.15vw + 1.09rem), 1.31rem);
+  --jf-font-size-body-sm: clamp(0.75rem, calc(0.10vw + 0.72rem), 0.88rem);
+  --jf-font-size-body-xs: clamp(0.63rem, calc(0.10vw + 0.60rem), 0.75rem);
+  --jf-font-family-brand: Prata;
+  --jf-font-family-plain: 'Segoe UI';
+  --jf-font-family-alt: 'Fira Code';
+  --jf-font-family-icon: 'Font Awesome\ 5 Free';
+  --jf-font-weight-display: 400;
+  --jf-font-weight-title: 400;
+  --jf-font-weight-body-regular: 400;
+  --jf-font-weight-body-medium: 500;
+  --jf-font-weight-body-bold: 600;
+  --jf-line-height-display-lg: 1.1;
+  --jf-line-height-display-md: 1.3;
+  --jf-line-height-display-sm: 1.3;
+  --jf-line-height-title-xl: 1.3;
+  --jf-line-height-title-lg: 1.3;
+  --jf-line-height-title-md: 1.3;
+  --jf-line-height-title-sm: 1.3;
+  --jf-line-height-title-xs: 1.3;
+  --jf-line-height-body-xl: 1.7;
+  --jf-line-height-body-lg: 1.7;
+  --jf-line-height-body-md: 1.7;
+  --jf-line-height-body-sm: 1.5;
+  --jf-line-height-body-xs: 1.5;
+  --jf-letter-spacing-display-lg: -0.75px;
+  --jf-letter-spacing-display-md: -0.75px;
+  --jf-letter-spacing-display-sm: -0.5px;
+  --jf-letter-spacing-title-xl: -0.5px;
+  --jf-letter-spacing-title-lg: -0.5px;
+  --jf-letter-spacing-title-md: -0.5px;
+  --jf-letter-spacing-title-sm: -0.5px;
+  --jf-letter-spacing-title-xs: -0.5px;
+  --jf-letter-spacing-body-xl: 0.95px;
+  --jf-letter-spacing-body-lg: 0.95px;
+  --jf-letter-spacing-body-md: 0.75px;
+  --jf-letter-spacing-body-sm: 0.5px;
+  --jf-letter-spacing-body-xs: 0.5px;
+  --jf-text-decoration-link: underline;
+}

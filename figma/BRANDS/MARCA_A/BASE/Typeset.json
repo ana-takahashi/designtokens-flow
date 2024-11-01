@@ -1,0 +1,230 @@
+{
+  "jf": {
+    "font-family": {
+      "brand": {
+        "type": "fontFamilies",
+        "value": "DM Sans"
+      },
+      "plain": {
+        "type": "fontFamilies",
+        "value": "DM Sans"
+      },
+      "alt": {
+        "type": "fontFamilies",
+        "value": "Fira Code"
+      },
+      "icon": {
+        "type": "fontFamilies",
+        "value": "Font Awesome\\ 5 Free"
+      }
+    },
+    "font-weight": {
+      "display": {
+        "type": "fontWeights",
+        "value": "900"
+      },
+      "title": {
+        "type": "fontWeights",
+        "value": "600"
+      },
+      "body-regular": {
+        "type": "fontWeights",
+        "value": "400"
+      },
+      "body-medium": {
+        "type": "fontWeights",
+        "value": "500"
+      },
+      "body-bold": {
+        "type": "fontWeights",
+        "value": "600"
+      }
+    },
+    "line-height": {
+      "display": {
+        "lg": {
+          "type": "lineHeights",
+          "value": "110%"
+        },
+        "md": {
+          "type": "lineHeights",
+          "value": "130%"
+        },
+        "sm": {
+          "type": "lineHeights",
+          "value": "130%"
+        }
+      },
+      "title": {
+        "xl": {
+          "type": "lineHeights",
+          "value": "130%"
+        },
+        "lg": {
+          "type": "lineHeights",
+          "value": "130%"
+        },
+        "md": {
+          "type": "lineHeights",
+          "value": "130%"
+        },
+        "sm": {
+          "type": "lineHeights",
+          "value": "130%"
+        },
+        "xs": {
+          "type": "lineHeights",
+          "value": "130%"
+        }
+      },
+      "body": {
+        "xl": {
+          "type": "lineHeights",
+          "value": "170%"
+        },
+        "lg": {
+          "type": "lineHeights",
+          "value": "170%"
+        },
+        "md": {
+          "type": "lineHeights",
+          "value": "170%"
+        },
+        "sm": {
+          "type": "lineHeights",
+          "value": "150%"
+        },
+        "xs": {
+          "type": "lineHeights",
+          "value": "150%"
+        }
+      }
+    },
+    "letter-spacing": {
+      "display": {
+        "lg": {
+          "type": "letterSpacing",
+          "value": "-0.75"
+        },
+        "md": {
+          "type": "letterSpacing",
+          "value": "-0.75"
+        },
+        "sm": {
+          "type": "letterSpacing",
+          "value": "-0.5"
+        }
+      },
+      "title": {
+        "xl": {
+          "type": "letterSpacing",
+          "value": "-0.5"
+        },
+        "lg": {
+          "type": "letterSpacing",
+          "value": "-0.5"
+        },
+        "md": {
+          "type": "letterSpacing",
+          "value": "-0.5"
+        },
+        "sm": {
+          "type": "letterSpacing",
+          "value": "-0.5"
+        },
+        "xs": {
+          "type": "letterSpacing",
+          "value": "-0.5"
+        }
+      },
+      "body": {
+        "xl": {
+          "type": "letterSpacing",
+          "value": "0.95"
+        },
+        "lg": {
+          "type": "letterSpacing",
+          "value": "0.95"
+        },
+        "md": {
+          "type": "letterSpacing",
+          "value": "0.75"
+        },
+        "sm": {
+          "type": "letterSpacing",
+          "value": "0.5"
+        },
+        "xs": {
+          "type": "letterSpacing",
+          "value": "0.5"
+        }
+      }
+    },
+    "text-decoration": {
+      "link": {
+        "type": "textDecoration",
+        "value": "underline"
+      }
+    },
+    "font-size": {
+      "display": {
+        "lg": {
+          "type": "other",
+          "value": "clamp(1.50rem, calc(0.19vw + 1.46rem), 1.69rem)"
+        },
+        "md": {
+          "type": "other",
+          "value": "clamp(1.44rem, calc(0.19vw + 1.39rem), 1.63rem)"
+        },
+        "sm": {
+          "type": "other",
+          "value": "clamp(1.38rem, calc(0.19vw + 1.33rem), 1.56rem)"
+        }
+      },
+      "title": {
+        "xl": {
+          "type": "other",
+          "value": "clamp(1.25rem, calc(0.13vw + 1.22rem), 1.38rem)"
+        },
+        "lg": {
+          "type": "other",
+          "value": "clamp(3.50rem, calc(0.40vw + 3.40rem), 4.00rem)"
+        },
+        "md": {
+          "type": "other",
+          "value": "clamp(2.94rem, calc(0.30vw + 2.86rem), 3.31rem)"
+        },
+        "sm": {
+          "type": "other",
+          "value": "clamp(2.44rem, calc(0.25vw + 2.37rem), 2.75rem)"
+        },
+        "xs": {
+          "type": "other",
+          "value": "clamp(1.06rem, calc(0.13vw + 1.03rem), 1.19rem)"
+        }
+      },
+      "body": {
+        "md": {
+          "type": "other",
+          "value": "clamp(0.94rem, calc(0.10vw + 0.91rem), 1.06rem)"
+        },
+        "xl": {
+          "type": "other",
+          "value": "clamp(1.38rem, calc(0.15vw + 1.34rem), 1.56rem)"
+        },
+        "lg": {
+          "type": "other",
+          "value": "clamp(1.13rem, calc(0.15vw + 1.09rem), 1.31rem)"
+        },
+        "sm": {
+          "type": "other",
+          "value": "clamp(0.75rem, calc(0.10vw + 0.72rem), 0.88rem)"
+        },
+        "xs": {
+          "type": "other",
+          "value": "clamp(0.63rem, calc(0.10vw + 0.60rem), 0.75rem)"
+        }
+      }
+    }
+  }
+}
